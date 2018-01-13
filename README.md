@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## BIO
 
-You can use the [editor on GitHub](https://github.com/smiledra/smiledra.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Leslie Li, an undergraduate at the University of Rochester. I am a Brain & Cognitive Sciences major, as well as a music major. There is also a Latin minor that must be done. You can find me in the HLP lab, library or practice room. If I'm not at any of those places, I must be at a concert. Or on the way to a concert. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smiledra/smiledra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When I feel like it, I tend to stay in the practice room for hours; when it pleases me, I tend to code (no, debug) or solve math problems until 4am. When I am relatively normal, I am a morning person. 

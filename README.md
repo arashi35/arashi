@@ -8,4 +8,4 @@ I currently grind on reading papers and Rachmaninoff.
 
 (test)[Musical things](music.md) <br>
 (test)[Other things](others.md) <br>
-(test)[Yet another thing](arashi.md) <br>
+(test)[Yet another thing](arashi/README.md) <br>

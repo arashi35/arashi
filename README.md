@@ -6,4 +6,4 @@ I currently grind on reading papers and Rachmaninoff.
 
 ## Stuff
 
-[click here]((https://smiledra.github.io/seigi_marxico.html))
+[click here]((smiledra.github.io/seigi_marxico.html))

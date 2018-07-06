@@ -6,5 +6,6 @@ I currently grind on reading papers and Rachmaninoff.
 
 ## Stuff
 
-(test)[ Marxico's html]((seigi_marxico.html)) <br>
-[another page](arashi.md)
+(test)[Musical things](music.md)
+(test)[Other things](others.md)
+(test)[Yet another thing](arashi.md)

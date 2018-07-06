@@ -6,4 +6,5 @@ I currently grind on reading papers and Rachmaninoff.
 
 ## Stuff
 
-[click here]((smiledra.github.io/seigi_marxico.html))
+(test)[ Marxico's html]((seigi_marxico.html))
+[another page](arashi.md)

@@ -5,7 +5,7 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
-/* h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; } */
+h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em; text-align: center; }
 h2 { font-size: 2.7em; text-align: center; } 
 h3 { font-size: 2.3em; }
@@ -17,12 +17,20 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* arashi */
-table {
+/* table {
+	background-color: azure;
+	border-collapse: collapse;
+	width: 100%;
+} */
+
+.glossTable {
 	background-color: azure;
 	border-collapse: collapse;
 	width: 100%;
 }
-
+.glossTable, th, td {
+    border: 0;
+}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }

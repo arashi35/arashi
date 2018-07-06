@@ -17,19 +17,12 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* arashi */
-table {
-	background-color: azure;
-	border-collapse: collapse;
-	width: 100%;
-}
 
-/*
 .glossTable {
 	background-color: azure;
 	border-collapse: collapse;
 	width: 100%;
 }
-*/
 .glossTable, th, td {
     border: 0;
 }

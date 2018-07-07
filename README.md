@@ -6,6 +6,8 @@ I currently grind on reading papers and Rachmaninoff.
 
 ## Stuff
 
-(test)[Musical things](music.md) <br>
-(test)[Other things](others.md) <br>
-(test)[Yet another thing](arashi/README.md) <br>
+☛ (test)[About](about/README.md) <br>
+☛ [Research](bcs/README.md) <br>
+☛ (test)[Musical things](music.md) <br>
+☛ (test)[Other things](others.md) <br>
+☛ (test)[Yet another thing](arashi/README.md) <br>

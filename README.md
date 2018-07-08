@@ -10,4 +10,4 @@ I currently grind on reading papers and Rachmaninoff.
 ☛ [Research](bcs/README.md) <br>
 ☛ (test)[Musical things](music.md) <br>
 ☛ (test)[Other things](others.md) <br>
-☛ (test)[Yet another thing](arashi/README.md) <br>
+[comment]: <> (☛ (test)[Yet another thing](arashi/README.md) <br>)

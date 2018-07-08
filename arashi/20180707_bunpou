@@ -1,0 +1,166 @@
+<head>
+  <title>文法</title>
+<style>
+	blockquote { background: linen; border-left: 10px solid #ccc;margin: 1.5em 10px; 
+		padding: 0.5em 10px; quotes: "\201C""\201D""\2018""\2019"; }
+	/* blockquote:before { color: #ccc; content: open-quote; font-size: 4em; line-height: 0.1em;
+		margin-right: 0.25em; vertical-align: -0.4em; } */
+	blockquote p { display: inline;}
+	
+	body { margin: 60px auto; width: 70%; }
+	p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+	h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+	h1 { font-size: 3em; text-align: center; }
+	h2 { font-size: 2.7em; text-align: center; } 
+	h3 { font-size: 2.3em; text-align: center; }
+	h4 { font-size: 1.9em; text-align: center; } 
+	table { background-color: azure; border-collapse: collapse; width: 100%; } 
+	code { /*background-color: #89c4ff;*/ font-size: 1.2em; }
+</style>
+</head>
+
+<h1 id="文法：basic-particles--verbs">文法：basic particles + verbs</h1>
+<h2 id="particles-">~ particles ~</h2>
+<h4 id="も"><code>も</code></h4>
+<ol>
+<li>also, as well</li>
+<li>express profound surprise</li>
+</ol>
+<h4 id="へ"><code>へ</code></h4>
+<ul>
+<li>movement/direction to which (<a href="https://youtu.be/MUzowIM_Ilw">but not necessarily destination!</a>)</li>
+</ul>
+<h4 id="に"><code>に</code></h4>
+<ul>
+<li>destination</li>
+</ul>
+<h4 id="さ"><code>さ</code></h4>
+<ol>
+<li>used for a casual, non-honorific context;</li>
+<li>used to adjust the tone of a sentence (used mid-sentence), e.g.,</li>
+</ol>
+<blockquote>
+<p>約束ですからさ、雨でも伺います<br>
+やくそく　あめ　うかが</p>
+</blockquote>
+<h2 id="verbs-">~ verbs ~</h2>
+<h4 id="three-categories-of-verbs-terminology">Three categories of verbs; terminology</h4>
+<ol>
+<li>一段　(“R-verbs”)
+<ul>
+<li>ends with ーエる (下一段) or ーイる (上一段).</li>
+</ul>
+</li>
+<li>五段活用　(“U-verbs”)
+<ul>
+<li>if ending with る, then the penultimate vowel is ア, オ, or ウ.</li>
+</ul>
+</li>
+<li>サ行変格 &amp; カ行変格　(irregulars)
+<ul>
+<li>contains respectively する and 来る</li>
+</ul>
+</li>
+</ol>
+
+<table>
+<thead>
+<tr>
+<th>class</th>
+<th>-R (一段活用)</th>
+<th>-U (五段活用)</th>
+<th>irregular (サ/カ行変格)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>〜ます</code><br>polite</td>
+<td>る → ます</td>
+<td>u → i + ます</td>
+<td>する → します<br>来る → きます</td>
+</tr>
+<tr>
+<td><code>〜ない</code><br>negative</td>
+<td>る → ない</td>
+<td>u → a + ない<br>except う → わない</td>
+<td>ある → ない<br>する → しない<br>来る → こない</td>
+</tr>
+<tr>
+<td></td>
+<td>polite: ます → ません</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>〜た</code><br>past tense</td>
+<td>る → た</td>
+<td>1. く → いた　ぐ → いだ<br>2. う/つ/る → った<br>3. む/ぬ/ぶ → んだ<br>4. す → した</td>
+<td>する → した<br>来る → きた</td>
+</tr>
+<tr>
+<td></td>
+<td>polite: ます → ました<br>exception: 行く → いった</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>〜よう</code><br>volitional</td>
+<td>る → よう</td>
+<td>u → o + ない</td>
+<td>する → しよう<br>来る → こよう</td>
+</tr>
+<tr>
+<td></td>
+<td>polite: ます → ましょう</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>〜たい</code><br>desiderative</td>
+<td>る → たい</td>
+<td>u → i + ない</td>
+<td>する → したい<br>来る → きたい</td>
+</tr>
+<tr>
+<td></td>
+<td>negative: たい → たくない; used as if adjectives<br>polite: + です<br>note: object uses particle が instead of を</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>imperative</td>
+<td>る → ろ</td>
+<td>u → e</td>
+<td>する → しろ<br>来る → こい<br><strong>くれる → くれ</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>negative: add 〜な to dictionary forms</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>られる</code><br>potential</td>
+<td>る → られる</td>
+<td>u → e + る</td>
+<td>する → できる<br>来る → こられる<br><strong>くれる → くれ</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>negative: replace る with ない<br>polite: replace る with ます</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table><h2 id="misc.-">~ misc. ~</h2>
+<ul>
+<li><code>〜から</code>　used in two verbs もらう and いただき, follows the place from which the object is given. <sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>《标准日语语法》 p. 105 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+

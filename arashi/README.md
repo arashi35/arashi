@@ -6,6 +6,6 @@
 
 [2018/07/06 『正義など、ありましない』](20180706_seigi.html) (FE暗夜·マークス)
 
-- - - editing - - -
+<center> ~ editing ~ </center>
 
 [2018/07/07 【天ノ弱】](20180707_ten.html) (歌詞)　(Recording for reference: [Youtube link](https://youtu.be/EoxRhxsTmNg) or [Bilibili link](https://www.bilibili.com/video/av7200271/)) 

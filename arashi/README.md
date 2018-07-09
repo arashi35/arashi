@@ -1,6 +1,6 @@
 ## Log
 
-[2018/07/07 ＜文法：助詞ど動詞＞](20180707_bunpou.html) (Notes on a [Japanese Grammar Youtube playlist](https://www.youtube.com/playlist?list=PLINFE8v4DOhtUkvfx3UrJ8CwD9U7xWbZA))
+[2018/07/09 ＜文法：助詞・動詞・形容詞＞](20180709_JG1.html) (Notes on a [Japanese Grammar Youtube Playlist](https://www.youtube.com/playlist?list=PLINFE8v4DOhtUkvfx3UrJ8CwD9U7xWbZA))
 
 [2018/07/06 『君のいる僕』](20180706_kimi.html)　(FE白夜·タクミ)
 

@@ -1,5 +1,7 @@
 ## Log
 
+[2018/07/18 『君いない僕』](20180718_sawaruna.html)　(FE暗夜·タクミ)
+
 [2018/07/09 ＜文法：助詞・動詞・形容詞＞](20180709_JG1.html) (Notes on a [Japanese Grammar Youtube Playlist](https://www.youtube.com/playlist?list=PLINFE8v4DOhtUkvfx3UrJ8CwD9U7xWbZA))
 
 [2018/07/06 『君のいる僕』](20180706_kimi.html)　(FE白夜·タクミ)

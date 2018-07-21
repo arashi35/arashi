@@ -1,0 +1,52 @@
+  blockquote { background: linen; 
+                border-left: 10px solid #ccc;
+                margin: 1.5em 10px; 
+                padding: 0.5em 10px; 
+                quotes: "\201C""\201D""\2018""\2019"; }
+	/* blockquote:before { color: #ccc; content: open-quote; font-size: 4em; line-height: 0.1em;
+		margin-right: 0.25em; vertical-align: -0.4em; } */
+	blockquote p { display: inline;}
+	
+	body { margin: 60px auto; width: 70%; }
+  
+	p, ul, ol, li, dd {font-size: 1.0em; line-height: 1.5em; color: #333; }
+    
+	h1, h2, h3, h4 { font-family: serif; /* 'Helvetica', 'Arial', 'Sans-Serif'; */ }
+	h1 { background-color: #FEFDFB; }
+	h1 { font-size: 2.8em; text-align: center; }
+	h2 { font-size: 2.1em; text-align: center; } 
+	h3 { font-size: 1.8em; text-align: center; }
+	h4 { font-size: 1.2em; } 
+	table { background-color: azure; border-collapse: collapse; width: 100%; } 
+  
+  	hr.style-two { border: 0; 
+        height: 1px; 
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); }
+
+ 
+  pre {
+        font-family: "Courier 10 Pitch", Courier, monospace;
+        font-size: 95%;
+        line-height: 140%;
+        white-space: pre;
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -o-pre-wrap;
+    }       
+    
+    code {
+        font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+        font-size: 95%;
+        line-height: 140%;
+        white-space: pre;
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -o-pre-wrap;
+        background: #faf8f0;
+    }
+    
+    #content code {
+        display: block;
+        padding: 0.5em 1em;
+        border: 1px solid #bebab0;
+    }

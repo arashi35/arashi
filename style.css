@@ -1,32 +1,28 @@
-	body { margin: 60px auto; width: 70%; }
+body { margin: 60px auto; width: 70%; }
   
-	p, ul, ol, li, dd {font-size: 1.0em; line-height: 1.5em; color: #333; }
+p, ul, ol, li, dd {font-size: 1.0em; line-height: 1.5em; color: #333; }
     
-	h1, h2, h3, h4 { font-family: serif; }
-	h1 { background-color: #FEFDFB; }
-	h1 { font-size: 2.8em; text-align: center; }
-	h2 { font-size: 2.1em; text-align: center; } 
-	h3 { font-size: 1.8em; text-align: center; }
-	h4 { font-size: 1.2em; } 
-	table { background-color: azure; border-collapse: collapse; width: 100%; } 
-code, .code, pre {
-  font-family: 'Source Code Pro';
-  background: $char;
-  color: $lightGray;
-  font-size: 16px;
-  padding: 0;
-  padding: 10px;
-  &:before {
-    display: block;
-    width: calc(100% + 10px);
-    margin-top: -10px;
-    margin-left: -10px;
-    padding: 5px;
-    text-transform: uppercase;
-    content: attr(data-lang);
-    background: $medBlue;
-  }
-}
+h1, h2, h3, h4 { font-family: serif; }
+h1 { background-color: #FEFDFB; }
+h1 { font-size: 2.8em; text-align: center; }
+h2 { font-size: 2.1em; text-align: center; } 
+h3 { font-size: 1.8em; text-align: center; }
+h4 { font-size: 1.2em; } 
+table { background-color: azure; border-collapse: collapse; width: 100%; } 
+
+
+code,kbd,samp{font-family:monospace,monospace;font-size:1em}
+code,pre,samp{font-family:Roboto Mono,Lucida Sans Typewriter,Lucida Console,monaco,Courrier,monospace;font-size:.85em}
+code *,pre *,samp * {font-size:inherit}
+code{background-color:rgba(0,0,0,.05);border-radius:2px;padding:2px 4px}
+pre>code{ background-color:rgba(0,0,0,.05);
+	display:block;
+	padding:.5em;
+	-webkit-text-size-adjust:none;
+	overflow-x:auto;
+	white-space:pre}
+
+
 
 blockquote { background: linen; 
         border-left: 10px solid #ccc;

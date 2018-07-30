@@ -1,5 +1,7 @@
 ## Log
 
+[2018/07/30 【My soul for you】](20180730_my_soul.html)　(歌詞・Macross 7・バサラ)
+
 [2018/07/28 『僕の名はマルスだ』](20180728_marth.html)　(FE覚醒·マルス・セリフ二つ)
 
 [2018/07/21 【天ノ弱】](20180721_ten.html) (歌詞)　(Recording for reference: [Youtube link](https://youtu.be/EoxRhxsTmNg) or [Bilibili link](https://www.bilibili.com/video/av7200271/))

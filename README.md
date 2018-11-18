@@ -1,11 +1,8 @@
 --- 
 layout: page
-title: "Log"
-subtitle:
-date:
-category: 
-tags:
-finished:
+title: Log
+subtitle: 秋菊哉？
+
 ---
 
 [2018/07/06 『私は闘います』](/posts/20181117_6clear.html)　(FE白夜·アラシ)

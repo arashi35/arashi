@@ -102,15 +102,20 @@
     h4,
     h5,
     h6 {
-        font-size: 18px;
+        font-size: 22px;
     	margin: 24px;
     }
 }
 
 .post-content p {
-    margin: 6px;
+    margin: 15px;
     line-height: 20px;
     letter-spacing: 1px;
+}
+
+rt {
+	display: inline;
+    line-height: normal;
 }
 
 
@@ -232,11 +237,6 @@
 
 .tech .progress .grey {
     background: #91989F;
-}
-
-rt {
-	display: inline;
-    line-height: normal;
 }
 	
 

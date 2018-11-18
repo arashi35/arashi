@@ -1,9 +1,6 @@
---- 
-layout: post
-title: Log
-subtitle: 秋菊哉？
 
----
+# Log
+## 秋菊哉？
 
 [2018/07/06 『私は闘います』](/posts/20181117_6clear.html)　(FE白夜·アラシ)
 
@@ -22,4 +19,3 @@ subtitle: 秋菊哉？
 [2018/07/06 『君のいる僕』](/posts/20180706_kimi.html)　(FE白夜·タクミ)
 
 [2018/07/06 『正義など、ありましない』](/posts/20180706_seigi.html) (FE暗夜·マークス) (updated 2018/7/28)
-

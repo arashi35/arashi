@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: post
 title: Log
 subtitle: 秋菊哉？
 

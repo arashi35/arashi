@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
+kramdown:
+  hard_wrap: false
 show_downloads: false

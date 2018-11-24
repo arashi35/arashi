@@ -113,9 +113,14 @@
     letter-spacing: 1px;
 }
 
+ruby {
+  display: inline-flex;
+  flex-direction: column-reverse;
+}
+
 rt {
-	/* display: inline; */
-    line-height: normal;
+	/* line-height: normal; */
+    line-height: 1;
 }
 
 

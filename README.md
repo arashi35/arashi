@@ -1,4 +1,7 @@
---- title: "Arashi" ---
+--- 
+layout: page
+title: "Arashi" 
+---
 
 
 ## Log

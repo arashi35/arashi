@@ -3,6 +3,8 @@
 
 ## Log
 
+[2018/11/24 【僕らの戦場】](/posts/20181124_senjou.html)　(歌詞・Macross Δ)
+
 [2018/07/06 『私は闘います』](/posts/20181117_6clear.html)　(FE白夜·アラシ)
 
 [2018/11/17 【六等星の夜】](/posts/20181117_roku.html)　(歌詞・Aimer)

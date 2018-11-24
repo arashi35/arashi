@@ -103,22 +103,22 @@
     h5,
     h6 {
         font-size: 22px;
-    	margin:  28px;
+    	margin:  30px;
     }
 }
 
 .post-content p {
     margin: 15px;
-    line-height: 20px;
+    line-height: 1.5;
     letter-spacing: 1px;
 }
 
-.ruby {
+ruby {
   display: inline-flex;
   flex-direction: column-reverse;
 }
 
-.rt {
+rt {
 	/* line-height: normal; */
     line-height: 1;
 }

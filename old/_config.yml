@@ -1,0 +1,18 @@
+# Site settings
+title: arashi
+name: smiledra # your name
+# email: liruolan.leslie@gmail.com # your email address
+description: 大虛空を　取反すとも　聞か無くに　星かと見ゆる　秋菊哉 # ignore newlines until "baseurl:"
+baseurl: "/arashi" # the subpath of your site, e.g. /blog
+url: "smiledra.github.io" # the base hostname & protocol for your site
+twitter_username: # your Twitter username
+github_username: smiledra # your Github username
+# disqus_username: # your disqus username
+
+# google-analytics: # add it if you have one
+
+skillstree: true # turn on or off the skills tree in about page
+
+# Build settings
+permalink: none
+markdown: kramdown

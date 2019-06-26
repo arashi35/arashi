@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e65b360-86a1-42f9-bf0b-19bd7bb827d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-07-06-kimi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-06-kimi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-06-kimi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/hide_2018-07-09-JG1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/hide_2018-07-09-JG1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-06-kimi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-06-kimi.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,19 +25,10 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-06-kimi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-06-kimi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="60" selection-start-line="60" selection-end-line="65" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -157,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561511066728</updated>
-      <workItem from="1561511069729" duration="2210000" />
+      <workItem from="1561511069729" duration="2262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2210000" />
+    <option name="totallyTimeSpent" value="2262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -271,8 +258,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-06-kimi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>

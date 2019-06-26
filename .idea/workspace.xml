@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e65b360-86a1-42f9-bf0b-19bd7bb827d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-06-seigi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-06-seigi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-07-06-seigi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-06-seigi.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-06-seigi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <first_editor relative-caret-position="164">
+                <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561511066728</updated>
-      <workItem from="1561511069729" duration="1415000" />
+      <workItem from="1561511069729" duration="1541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1415000" />
+    <option name="totallyTimeSpent" value="1541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -235,8 +234,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-06-seigi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <first_editor relative-caret-position="164">
+            <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>

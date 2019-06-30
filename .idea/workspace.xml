@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e65b360-86a1-42f9-bf0b-19bd7bb827d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-27-matrix.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-27-matrix.md" afterDir="false" />
-    </list>
+    <list default="true" id="6e65b360-86a1-42f9-bf0b-19bd7bb827d6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,12 +155,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561511066728</updated>
       <workItem from="1561511069729" duration="2477000" />
-      <workItem from="1561683020563" duration="1871000" />
+      <workItem from="1561683020563" duration="2075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4348000" />
+    <option name="totallyTimeSpent" value="4552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />

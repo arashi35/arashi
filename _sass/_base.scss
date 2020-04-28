@@ -162,12 +162,6 @@ blockquote {
     color: #888888;
 }
 
-fequote {
-	background: #ffeed5;
-	line-height: 150%;
-}
-
-
 /**
  * Hr
  */
@@ -260,6 +254,10 @@ letter-spacing: 1px;
 }
 
 
+rb, rt {
+  display: inline;
+  line-height: 1;
+}
 
 /**
  * Icons

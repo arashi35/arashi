@@ -1,9 +1,9 @@
 # Site settings
 title: arashi
-name: smiledra # your name
+name: arashi # your name
 # email: N/A # your email address
 description: >
-    大虛空を　取反すとも　聞か無くに　星かと見ゆる　秋菊哉 # this means to ignore newlines until "baseurl:"
+    おほそらを　とりかえすとも　きかなくに　ほしかとみゆる　あきのきくかな # this means to ignore newlines until "baseurl:"
 baseurl: "/arashi" # the subpath of your site, e.g. /blog
 url: "arashi35.github.io" # the base hostname & protocol for your site
 twitter_username: # your Twitter username

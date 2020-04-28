@@ -6,8 +6,8 @@ permalink: /lyrics/
 ---
 
 {% for category in site.categories %}
-{% if category == "Reference" %}
 {% capture cat %}{{ category | first }}{% endcapture %}
+{% if cat == "Reference" %}
 
 <h2>{{ cat | capitalize }}</h2>
 	<ul>

@@ -157,7 +157,7 @@ a:hover {
 blockquote {
     border-left: 5px solid #eee;
     margin-left: 30px;
-    line-height: 120%;
+    line-height: 100%;
     padding: 5px 15px;
     color: #888888;
 }
@@ -214,7 +214,7 @@ table, th {
     text-align: center;
     border-bottom: 1px solid #eee;
     border-collapse: collapse;
-line-height: 25px;
+	line-height: 25px;
 letter-spacing: 1px;
 }
 
@@ -251,17 +251,6 @@ letter-spacing: 1px;
         display: table;
         clear: both;
     }
-}
-
-
-ruby {
-  display: inline-flex;
-  flex-direction: column-reverse;
-}
-
-rb, rt {
-  display: inline;
-  line-height: 1;
 }
 
 /**

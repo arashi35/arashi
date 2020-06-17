@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- CSS -->
+
+  <link rel="stylesheet" href="/arashi/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/arashi/reference/matrix.html">
+  <link rel="alternate" type="application/rss+xml" title="arashi" href="http://localhost:4000/arashi/feed.xml">
+
+<!-- Google font -->
+
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Noto Sans">
+
+<!-- font awesome -->
+
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+
+</head>
+
+
+  
+
+  
+
+  </head>
+
+  <body>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Matrix and basic operations</title>
+  <meta name="description" content="Determinant">
+</head>
+
+
+  <div class="wrapper">
+          <header class="post-header">
+
+    <center><div class="post-title" itemprop="name headline">Matrix and basic operations</div>
+
+		<div class="post-meta"><i class="fa fa-calendar-o"></i> <time datetime="27 Jun 2019" itemprop="datePublished">Jun 27 2019</time>
+
+		&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-user-secret"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Leslie Li</span>
+        
+		<br>
+		<i class="fa fa-eye"></i> 
+
+	</div>
+
+        
+        <div class="post-tags">
+        
+		<a class="post-tags-item" href="http://localhost:4000/arashi/tags/">Math</a>
+        
+		<a class="post-tags-item" href="http://localhost:4000/arashi/tags/">Reference</a>
+        
+	</div>
+    </center>
+    
+</header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+<div id="category"></div>
+
+<div class="post-content" itemprop="articleBody">
+    <h2 id="determinant">Determinant</h2>
+
+<p>Think of the determinant as giving the area of a 2D matrix, or the volume of a 3D matrix, etc., after the particular
+transformation of the space specified by the space. The area of anything in the 2D/3D space after the transformation 
+can be approximated by small squares composed of <script type="math/tex">\hat{i}</script> and <script type="math/tex">\hat{j}</script>.</p>
+
+<h2 id="matrix-multiplication">Matrix Multiplication</h2>
+
+<script type="math/tex; mode=display">AB = C</script>
+
+<p>For two matrices, <script type="math/tex">A</script> and <script type="math/tex">B</script>, if <script type="math/tex">A</script> is of size <script type="math/tex">n \times m</script> and <script type="math/tex">B</script> is of size
+ <script type="math/tex">m \times p</script>, then <script type="math/tex">A \times B</script> is valid and will yield a new matrix of size <script type="math/tex">n \times p</script>. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+
+<h3 id="relation-to-dot-product">Relation to dot product</h3>
+
+<p>For two column vectors, the dot product of these vectors is the matrix product <script type="math/tex">x^{T}\cdot y</script>.</p>
+
+<h2 id="vectors">Vectors</h2>
+
+<p>By default, column vectors are used for this discussion.</p>
+
+<h3 id="dot-product">Dot product</h3>
+
+<p>The <a href="https://en.wikipedia.org/wiki/Dot_product">dot product</a> of two vectors yields a scalar. The analogy of this is one 
+vector’s projection times the other vector:</p>
+
+<script type="math/tex; mode=display">\vec{a} \cdot \vec{b} = \left \| \vec{a} \right \|\left \| \vec{b} \right \| \cos{\theta }</script>
+
+<h3 id="cross-product">Cross product</h3>
+
+<p>The <a href="https://en.wikipedia.org/wiki/Cross_product">cross product</a> of two vectors yields a vector. It is only defined in 
+3D space and the formula is given below:</p>
+
+<script type="math/tex; mode=display">\vec{a} \times \vec{b} = \left \| \vec{a} \right \| \left \| \vec{b} \right \| \sin{ \theta }  \vec{n}</script>
+
+<p>Note that <script type="math/tex">\vec{n}</script> is a unit vector that is perpendicular to both <script type="math/tex">\vec{a}</script> and <script type="math/tex">\vec{b}</script>, in the direction that
+is given by the right hand rule.</p>
+
+<hr />
+
+<h2 id="reference">Reference</h2>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>https://en.wikipedia.org/wiki/Matrix_multiplication <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+
+<div>
+	
+	<div class="tbc"></div>
+	
+</div>
+
+<div class="share">
+    <p>Share this post with: </p>
+	<a href="https://twitter.com/intent/tweet?text=Matrix and basic operations@&amp;url=http://localhost:4000/arashi/reference/matrix.html" class="twitter-share">
+		<span class="fa-stack fa-lg">
+			<i class="fa fa-circle fa-stack-2x"></i>
+			<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+		</span>
+	</a>
+    
+	<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/arashi/reference/matrix.html" class="facebook-share">
+		<span class="fa-stack fa-lg">
+			<i class="fa fa-circle fa-stack-2x"></i>
+			<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+		</span>
+	</a>
+    
+	<a href="https://plus.google.com/share?url=http://localhost:4000/arashi/reference/matrix.html" class="googleplus-share">
+		<span class="fa-stack fa-lg">
+			<i class="fa fa-circle fa-stack-2x"></i>
+			<i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+		</span>
+	</a>
+</div>
+
+
+<div id="disqus_thread"></div>
+
+
+ 
+</div>
+
+
+</article>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" ></script>
+  </div>
+
+</body>
+
+<foot>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <center>
+        
+		<p><a class="link" href="/arashi/archive/">Archive</a> /
+		<a class="link" href="/arashi/lyrics/">歌词</a> /
+		<a class="link" href="/arashi/arashi/">為</a> /
+		<a class="link" href="/arashi/antiquae/">古文</a> /
+		<a class="link" href="/arashi/misc/">その他</a> /
+		<a class="link" href="/arashi/tags/">Tags</a> /
+		<a class="link" href="/arashi/about/">About</a>
+        </p>
+
+        <span><script>document.write(new Date().getFullYear());</script></span>
+        <span>&copy;</span>
+        
+		<a class="link" href="/arashi">arashi</a>
+				<iframe
+			style="margin-left: 2px; margin-bottom:-5px;"
+			frameborder="0" scrolling="0" width="91px" height="20px"
+			src="https://ghbtns.com/github-btn.html?user=arashi35&repo=arashi&type=star&count=true">
+		</iframe>
+
+    </center>
+    
+  </div>
+
+</footer>
+
+    <foot>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Derictory -->
+
+  <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+  <script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
+
+<!-- Hit analytics -->
+
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<!-- Directory -->
+
+<script src="/arashi/js/main.js"></script>
+
+</foot>
+
+
+</foot>
+
+</html>

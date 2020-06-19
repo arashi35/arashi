@@ -6,9 +6,35 @@
 </description>
     <link>http://localhost:4000/arashi/</link>
     <atom:link href="http://localhost:4000/arashi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jun 2020 21:58:22 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2020 21:58:22 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2020 20:18:43 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2020 20:18:43 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>古日语语法笔记</title>
+        <description>&lt;h2 id=&quot;助动词&quot;&gt;助动词&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;〜す&lt;/code&gt; 敬语助动词。&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;〜む&lt;/code&gt; 前接已然形。劝诱助动词。&lt;/p&gt;
+
+&lt;h2 id=&quot;助词&quot;&gt;助词&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;〜ね&lt;/code&gt; 前接未然形。前接す的未然形さ时表催促之意。&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/arashi/%E5%8F%A4%E6%96%87/dict.html</link>
+        <guid isPermaLink="true">http://localhost:4000/arashi/%E5%8F%A4%E6%96%87/dict.html</guid>
+        
+        <category>和歌</category>
+        
+        <category>日本語</category>
+        
+        
+        <category>古文</category>
+        
+      </item>
     
       <item>
         <title>和歌抄</title>
@@ -71,71 +97,6 @@
         
         
         <category>歌詞</category>
-        
-      </item>
-    
-      <item>
-        <title>Matrix and basic operations</title>
-        <description>&lt;h2 id=&quot;determinant&quot;&gt;Determinant&lt;/h2&gt;
-
-&lt;p&gt;Think of the determinant as giving the area of a 2D matrix, or the volume of a 3D matrix, etc., after the particular
-transformation of the space specified by the space. The area of anything in the 2D/3D space after the transformation 
-can be approximated by small squares composed of &lt;script type=&quot;math/tex&quot;&gt;\hat{i}&lt;/script&gt; and &lt;script type=&quot;math/tex&quot;&gt;\hat{j}&lt;/script&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;matrix-multiplication&quot;&gt;Matrix Multiplication&lt;/h2&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;AB = C&lt;/script&gt;
-
-&lt;p&gt;For two matrices, &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt; and &lt;script type=&quot;math/tex&quot;&gt;B&lt;/script&gt;, if &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt; is of size &lt;script type=&quot;math/tex&quot;&gt;n \times m&lt;/script&gt; and &lt;script type=&quot;math/tex&quot;&gt;B&lt;/script&gt; is of size
- &lt;script type=&quot;math/tex&quot;&gt;m \times p&lt;/script&gt;, then &lt;script type=&quot;math/tex&quot;&gt;A \times B&lt;/script&gt; is valid and will yield a new matrix of size &lt;script type=&quot;math/tex&quot;&gt;n \times p&lt;/script&gt;. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;relation-to-dot-product&quot;&gt;Relation to dot product&lt;/h3&gt;
-
-&lt;p&gt;For two column vectors, the dot product of these vectors is the matrix product &lt;script type=&quot;math/tex&quot;&gt;x^{T}\cdot y&lt;/script&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;vectors&quot;&gt;Vectors&lt;/h2&gt;
-
-&lt;p&gt;By default, column vectors are used for this discussion.&lt;/p&gt;
-
-&lt;h3 id=&quot;dot-product&quot;&gt;Dot product&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Dot_product&quot;&gt;dot product&lt;/a&gt; of two vectors yields a scalar. The analogy of this is one 
-vector’s projection times the other vector:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\vec{a} \cdot \vec{b} = \left \| \vec{a} \right \|\left \| \vec{b} \right \| \cos{\theta }&lt;/script&gt;
-
-&lt;h3 id=&quot;cross-product&quot;&gt;Cross product&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Cross_product&quot;&gt;cross product&lt;/a&gt; of two vectors yields a vector. It is only defined in 
-3D space and the formula is given below:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\vec{a} \times \vec{b} = \left \| \vec{a} \right \| \left \| \vec{b} \right \| \sin{ \theta }  \vec{n}&lt;/script&gt;
-
-&lt;p&gt;Note that &lt;script type=&quot;math/tex&quot;&gt;\vec{n}&lt;/script&gt; is a unit vector that is perpendicular to both &lt;script type=&quot;math/tex&quot;&gt;\vec{a}&lt;/script&gt; and &lt;script type=&quot;math/tex&quot;&gt;\vec{b}&lt;/script&gt;, in the direction that
-is given by the right hand rule.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;https://en.wikipedia.org/wiki/Matrix_multiplication &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Jun 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/arashi/reference/matrix.html</link>
-        <guid isPermaLink="true">http://localhost:4000/arashi/reference/matrix.html</guid>
-        
-        <category>Math</category>
-        
-        <category>Reference</category>
-        
-        
-        <category>Reference</category>
         
       </item>
     
@@ -687,8 +648,8 @@ COME ON PEOPLE 太陽のように&lt;br /&gt;
 &lt;p&gt;&lt;img src=&quot;http://mangaaaanime.weebly.com/uploads/1/1/9/4/11940097/3264077.jpg?300&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/arashi/%E6%AD%8C%E8%A9%9E/my_soul.html</link>
-        <guid isPermaLink="true">http://localhost:4000/arashi/%E6%AD%8C%E8%A9%9E/my_soul.html</guid>
+        <link>http://localhost:4000/arashi/%E6%AD%8C%E8%A9%9E/my-soul.html</link>
+        <guid isPermaLink="true">http://localhost:4000/arashi/%E6%AD%8C%E8%A9%9E/my-soul.html</guid>
         
         <category>Macross 7</category>
         

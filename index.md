@@ -3,18 +3,8 @@ layout: page
 title: Archive
 subtitle: 私は闘う。 
 ---
-<body>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-</body>
 
 <body>
-
 
         {% assign is_first = true %}
 	{% for post in site.posts %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: "嵐"
 subtitle: 私は闘う。 
 ---
 

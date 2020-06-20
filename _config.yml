@@ -3,17 +3,23 @@ title: arashi
 name: arashi # your name
 # email: N/A # your email address
 description: >
-    おほそらを　とりかえすとも　きかなくに　ほしかとみゆる　あきのきくかな # this means to ignore newlines until "baseurl:"
+    おほそらを　とりかえすとも　きかなくに　ほしかとみゆる　あきのきくかな
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "arashi35.github.io" # the base hostname & protocol for your site
-twitter_username: # your Twitter username
 github_username: arashi35 # your Github username
 disqus_username: # your disqus username
 
 google-analytics: # add it if you have one
 
-skillstree: true # turn on or off the skills tree in about page
 
 # Build settings
 permalink: none
 markdown: kramdown
+
+# default settings, currently configured for posts:
+defaults:
+  -
+    scope:
+      path: '_posts'
+    values:
+        layout: 'post'

@@ -1,0 +1,23 @@
+---
+layout: page
+title: その他
+subtitle: TBD
+permalink: /misc/
+---
+
+{% for category in site.categories %}
+{% capture cat %}{{ category | first }}{% endcapture %}
+{% if cat == "misc" %}
+
+
+<ul>
+{% for post in site.categories[cat] %}
+  <li>
+  <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+     <span class="date"> - {{ post.date | date_to_long_string }}</span></p>
+  </li>
+{% endfor %}
+</ul>
+
+{% endif %}
+{% endfor %}

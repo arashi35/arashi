@@ -65,7 +65,7 @@ figcaption {
 ul, ol {
     margin-left: $spacing-unit;
     color: #666;
-    letter-spacing: 1px;
+    letter-spacing: 1pt;
 }
 
 ul {
@@ -77,7 +77,7 @@ ul {
  * Headings
  */
 h1 {
-    font-size: 20px;
+    font-size: 20pt;
 }
 
 h2,
@@ -85,7 +85,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-size: 18px;
+    font-size: 17pt;
 }
 
 
@@ -107,7 +107,7 @@ a:hover {
 .post-content h2:before {
     content: "¶ ";
     margin-right: 20px;
-    color: #7f0a1a; // sprite 
+    color: #7f0a1a; // sprite
 }
 
 .link {

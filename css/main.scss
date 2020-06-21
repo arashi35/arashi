@@ -9,12 +9,12 @@
 //$base-font-family: "Noto Sans", serif;
 //$base-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 $base-font-family: "STSong", sans-serif;
-$base-font-size:   15px;
+$base-font-size:   15pt;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     35px;
+$spacing-unit:     35pt;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -30,29 +30,6 @@ $content-width:    900px;
 
 $on-palm:          700px;
 $on-laptop:        1000px;
-
-// Try to use PingFang
-
-//
-// @font-face {
-// 	font-family: ".PingFang SC";
-// 	font-weight: 500;
-// 	src: local(".PingFang-SC-Medium");
-// }
-//
-// @font-face {
-// 	font-family: ".PingFang SC";
-// 	font-weight: 400;
-// 	src: local(".PingFang-SC-Regular");
-// }
-//
-// @font-face {
-// 	font-family: ".PingFang SC";
-// 	font-weight: 300;
-// 	src: local(".PingFang-SC-Light");
-// }
-// End of Pingfang setting
-
 
 // Use media queries like this:
 // @include media-query($on-palm) {

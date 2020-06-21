@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "嵐"
-subtitle: 私は闘う。 
+subtitle: おほそらを　とりかえすとも　きかなくに　ほしかとみゆる　あきのきくかな 
 ---
 
 <body>

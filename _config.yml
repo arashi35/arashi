@@ -1,9 +1,7 @@
 # Site settings
-title: arashi
+title: 嵐
 name: arashi # your name
 # email: N/A # your email address
-description: >
-    おほそらを　とりかえすとも　きかなくに　ほしかとみゆる　あきのきくかな
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "arashi35.github.io" # the base hostname & protocol for your site
 github_username: arashi35 # your Github username

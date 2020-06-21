@@ -80,7 +80,10 @@ h1 {
     font-size: 20pt;
 }
 
-h2,
+h2 {
+    font-size: 19pt;
+}
+
 h3,
 h4,
 h5,
@@ -106,7 +109,7 @@ a:hover {
 
 .post-content h2:before {
     content: "¶ ";
-    margin-right: 20px;
+    margin-right: 19pt;
     color: #7f0a1a; // sprite
 }
 

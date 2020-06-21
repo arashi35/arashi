@@ -77,7 +77,7 @@ ul {
  * Headings
  */
 h1 {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h2,
@@ -85,7 +85,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 
@@ -94,25 +94,25 @@ h6 {
  */
 
 a {
-    color: #25b3bc;
+    color: #9f0c21; // fe darker
     text-decoration: none;
     transition: border .5s;
 }
 
 a:hover {
-    border-bottom: 2px dotted #000;
+    border-bottom: 2px dotted #fe1435;
 }
 
 
 .post-content h2:before {
     content: "¶ ";
     margin-right: 20px;
-    color: #25bcba;
+    color: #7f0a1a; // sprite 
 }
 
 .link {
     padding: 2px;
-    color: #25b3bc;
+    color: #a22435; // fe lighter
     text-decoration: none;
     transition: background-color .7s;
 }
@@ -169,7 +169,7 @@ hr {
     border: none;
     height: 1px;
     margin: 40px auto;
-    background: #dcdcdc;
+    background: #edd7da; // fe grey
     width: 100%;
 }
 
@@ -180,11 +180,11 @@ hr {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 16px;
     border: 1px solid #f8f8f8;
     border-radius: 3px;
     background-color: #f8f8f8;
-    color: #27badf;
+    color: #91202f;
 }
 
 code {
@@ -252,6 +252,7 @@ letter-spacing: 1px;
         clear: both;
     }
 }
+
 
 /**
  * Icons

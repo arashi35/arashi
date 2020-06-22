@@ -10,7 +10,7 @@ finished: true
 
 ![](https://vignette.wikia.nocookie.net/fireemblem/images/9/9c/FE13_Chrom_Lord_Map_Sprite.gif)
 
-## 
+## Text
 
 [クロム]
 
@@ -150,7 +150,7 @@ _（的确呢。说起来，我们能有好好休息的时间，好像不是很�
 
 *（哼，让他逃掉了！请等一下——！也真是的，好失礼呀。算了，其实我平时也不会觉得克罗姆殿下是男性。算是彼此彼此吧。）*
 
-### 文法
+## 文法
 
 [^1]: `もしAたら、B` - if by any chance A, then B. もし is rather supplementary and たら is the main particle triggering the conditional, but もし supplies a sense of additional uncertainty.
 [^2]: `〜のうちに` - within the time duration of ~. 

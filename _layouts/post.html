@@ -8,10 +8,12 @@ layout: default
 
 		<div class="post-meta"><i class="fa fa-calendar-o"></i> <time datetime="{{ page.date | date_to_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d %Y" }}</time>
 
-		{% if page.author %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-user-secret"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span>
+		{% if page.author %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-envira"></i> <span itemprop="author">{{ page.author }}</span>
         {% endif %}
-		<br>
-		<i class="fa fa-eye"></i> 
+		{% if page.editor %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-pen-nib"></i> <span itemprop="editor">{{ page.editor }}</span>
+        {% endif %}
+		{% if page.musician %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-music"></i> <span itemprop="musician">{{ page.musician }}</span>
+        {% endif %}
 
 	</div>
 
@@ -26,6 +28,14 @@ layout: default
 </header>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post-content">
+    <center>
+	{% if page.subtitle %}
+	<p>{{ page.subtitle }}</p>
+	{% endif %}
+    </center>
+	<h2>Directory</h2>
+</div>
 
 <div id="category"></div>
 

@@ -3,9 +3,10 @@ layout: post
 title: "暗夜２３章　〜　囚われし瞳"
 subtitle: "いない僕"
 author: タクミ
+editor: アラシ
 date: 2018-07-18
 category: arashi
-tags: [FE, 暗夜]
+tags: [FE, 暗夜, 日本語]
 finished: true
 ---
 

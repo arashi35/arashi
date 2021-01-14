@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 古文一览
+title: 杂记
 subtitle: Et fortunam et vitam antiquae patriae saepe laudas sed recusas. –Horace
-permalink: /antiquae/
+permalink: /blog/
 ---
 
 {% for category in site.categories %}
 {% capture cat %}{{ category | first }}{% endcapture %}
-{% if cat == "古文" %}
+{% if cat == "blog" %}
 
 <ul>
 {% for post in site.categories[cat] %}
